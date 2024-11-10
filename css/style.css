@@ -9,3 +9,24 @@ body{
     color: black;
     font-weight: 500;
 }
+
+.btn-custom{
+    display: inline-block;
+    font-weight: 300;
+    line-height: 1.5;
+    color: rgb(151, 243, 151);
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: black;
+    border: 12px solid transparent;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 2rem;
+    padding: .2rem 2rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
