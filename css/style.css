@@ -32,20 +32,10 @@ body{
 }
 
 
-.paddingtopbot{
-    padding-top: 100px;
-    padding-bottom: 100px;
+.homepage{
+    padding-top: 200px;
 }
 
-
-.leftMargin{
-    margin-left: 200px;
-    margin-right: 300px;
-}
-
-.rightMargin{
-    
-}
 h1{
     font-size: 64px;
     font-weight: bold;
