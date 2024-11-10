@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(151, 243, 151);
+    background-color: rgb(31, 120, 31);
 }
 
 
@@ -14,7 +14,7 @@ body{
     display: inline-block;
     font-weight: 300;
     line-height: 1.5;
-    color: rgb(151, 243, 151);
+    color: rgb(31, 120, 31);
     text-align: center;
     text-decoration: none;
     vertical-align: middle;
@@ -29,4 +29,30 @@ body{
     border-radius: 2rem;
     padding: .2rem 2rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+
+.paddingtopbot{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.leftMargin{
+    margin-left: 200px;
+    margin-right: 300px;
+}
+
+.rightMargin{
+    
+}
+h1{
+    font-size: 64px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+
+h3{
+    color: white;
 }
